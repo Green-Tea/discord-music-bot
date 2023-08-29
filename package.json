@@ -1,7 +1,6 @@
 {
   "name": "music-bot-tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,8 +13,17 @@
     "@discordjs/opus": "^0.5.3",
     "@discordjs/rest": "^0.3.0",
     "@discordjs/voice": "^0.8.0",
-    "discord-player": "^5.2.2",
-    "discord.js": "^13.6.0",
-    "dotenv": "^16.0.0"
-  }
+    "discord-player": "^5.4.0",
+    "discord.js": "^13.16.0",
+    "dotenv": "^16.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3chospirits/discord-music-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/3chospirits/discord-music-bot/issues"
+  },
+  "homepage": "https://github.com/3chospirits/discord-music-bot#readme",
+  "description": ""
 }
